@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhuo Zhuang | </title>
-    <link>https://bo-ni.netlify.app/authors/zhuo-zhuang/</link>
-      <atom:link href="https://bo-ni.netlify.app/authors/zhuo-zhuang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bo-ni.github.io/MRS_InverseProblem/authors/zhuo-zhuang/</link>
+      <atom:link href="https://bo-ni.github.io/MRS_InverseProblem/authors/zhuo-zhuang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhuo Zhuang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <url>https://bo-ni.github.io/MRS_InverseProblem/img/pom-card.png</url>
       <title>Zhuo Zhuang</title>
-      <link>https://bo-ni.netlify.app/authors/zhuo-zhuang/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/authors/zhuo-zhuang/</link>
     </image>
     
     <item>
       <title>Indentation response of freestanding two-dimensional materials with an adhesive boundary condition</title>
-      <link>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-cao-identation/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-cao-identation/</guid>
       <description></description>
     </item>
     

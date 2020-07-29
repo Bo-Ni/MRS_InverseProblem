@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DFT | </title>
-    <link>https://bo-ni.netlify.app/tags/dft/</link>
-      <atom:link href="https://bo-ni.netlify.app/tags/dft/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bo-ni.github.io/MRS_InverseProblem/tags/dft/</link>
+      <atom:link href="https://bo-ni.github.io/MRS_InverseProblem/tags/dft/index.xml" rel="self" type="application/rss+xml" />
     <description>DFT</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <url>https://bo-ni.github.io/MRS_InverseProblem/img/pom-card.png</url>
       <title>DFT</title>
-      <link>https://bo-ni.netlify.app/tags/dft/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/tags/dft/</link>
     </image>
     
     <item>
       <title>Topological toughening of graphene</title>
-      <link>https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2020-06-03-topological-toughening/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2020-06-03-topological-toughening/</guid>
       <description>&lt;p&gt;It has been claimed that graphene, with the elastic modulus of 1 TPa and theoretical strength as high as 130 GPa, is the strongest material. However, from an engineering point of view, it is the fracture toughness that determines the actual strength of materials, as crack-like flaws (i.e., cracks, holes, notches, corners, etc.) are inevitable in the design, fabrication, and operation of practical devices and systems. Recently, it has been demonstrated that graphene has very low fracture toughness, in fact close to that of ideally brittle solids. These findings have raised sharp questions and are calling for efforts to explore effective methods to toughen graphene.&lt;/p&gt;
 &lt;p&gt;In this project, we have been systematically exploring the potential of using topological effects to enhance the fracture toughness of graphene. We organize our toughening framework under the concept of topological design, which is defined as “taking advantages of the cooperative interactions of topological defects, e.g., disclinations, dislocations, and grain boundaries, to achieve novel mechanical and physical properties through design and fabrication of 2D lattice with controlled distribution of topological defects”. In our framework, a phase field crystal (PFC) method is adopted to generate the atomic coordinates of material with specific topological patterns. We then perform molecular dynamics (MD) simulation/phase field (PF) modelling of fracture tests to examine the fracture properties. With this design framework, we have generated tough graphene samples, like rebar graphene, vein-patterned graphene, nacre-liked graphene and double-folded graphene, borrowing the inspirations from engineering and nature. Various toughening mechanisms are activated to hinder crack propagation and dissipate strain energy, including crack tip blunting, crack trapping, ligament bridging, crack deflection, daughter crack initiation and coalescence, pseudo-plastic deformation and snap-through among multi-stable states. A topological toughening library linking the simple topological patterns to the effective toughening mechanisms is presented as guidance for engineering tough 2D materials.&lt;/p&gt;
 &lt;!--A few weeks ago, I wrapped up teaching [tidymodels](https://www.tidymodels.org) for the third time. We say third time&#39;s the charm, right? Even during a global pandemic? I don&#39;t know, but this time around was fun in new ways and hard in new ways, so I wanted to take the time to write some thoughts down about how it went.
@@ -172,8 +172,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM_hu8ddd347995e1b8316aad5f226eef880e_1335197_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM_hu8ddd347995e1b8316aad5f226eef880e_1335197_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -181,8 +181,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM_hu8ddd347995e1b8316aad5f226eef880e_932227_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM_hu8ddd347995e1b8316aad5f226eef880e_932227_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -190,8 +190,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM_hu8ddd347995e1b8316aad5f226eef880e_2521546_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM_hu8ddd347995e1b8316aad5f226eef880e_2521546_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -199,8 +199,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM_hu8ddd347995e1b8316aad5f226eef880e_1994290_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM_hu8ddd347995e1b8316aad5f226eef880e_1994290_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -208,8 +208,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM_hu8ddd347995e1b8316aad5f226eef880e_365121_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM_hu8ddd347995e1b8316aad5f226eef880e_365121_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 

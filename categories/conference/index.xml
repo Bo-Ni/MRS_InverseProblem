@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>conference | </title>
-    <link>https://bo-ni.netlify.app/categories/conference/</link>
-      <atom:link href="https://bo-ni.netlify.app/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bo-ni.github.io/MRS_InverseProblem/categories/conference/</link>
+      <atom:link href="https://bo-ni.github.io/MRS_InverseProblem/categories/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>conference</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Wed, 01 Nov 2017 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <url>https://bo-ni.github.io/MRS_InverseProblem/img/pom-card.png</url>
       <title>conference</title>
-      <link>https://bo-ni.netlify.app/categories/conference/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/categories/conference/</link>
     </image>
     
     <item>
       <title>Topological Toughening of Graphene and other 2D Materials</title>
-      <link>https://bo-ni.netlify.app/talk/2020-rmedicine-tidyml/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/talk/2020-rmedicine-tidyml/</link>
       <pubDate>Wed, 01 Nov 2017 09:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/talk/2020-rmedicine-tidyml/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/talk/2020-rmedicine-tidyml/</guid>
       <description>&lt;p&gt;&amp;ldquo;Topological Toughening of Graphene and other 2D Materials&amp;rdquo;, Symposium &amp;ldquo;Properties of 2D Materials including Electronic, Magnetic, Mechanical, Optical, and Thermal Properties”, AVS 64th International Symposium &amp;amp; Exhibition, Nov 1, 2017, Tampa, FL, USA (Presented by B. Ni)&lt;/p&gt;
 &lt;p&gt;This four-hour workshop will provide a gentle introduction to machine learning with R using the modern suite of predictive modeling packages called 
 &lt;a href=&#34;https://github.com/tidymodels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidymodels&lt;/a&gt;. We will build, evaluate, compare, and tune predictive models. Along the way, we’ll learn about key concepts in machine learning including overfitting, the holdout method, the bias-variance trade-off, ensembling, cross-validation, and feature engineering. Learners will gain knowledge about good predictive modeling practices, as well as hands-on experience using tidymodels packages like 

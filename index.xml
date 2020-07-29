@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://bo-ni.netlify.app/</link>
-      <atom:link href="https://bo-ni.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bo-ni.github.io/MRS_InverseProblem/</link>
+      <atom:link href="https://bo-ni.github.io/MRS_InverseProblem/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Thu, 27 Aug 2020 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <url>https://bo-ni.github.io/MRS_InverseProblem/img/pom-card.png</url>
       <title></title>
-      <link>https://bo-ni.netlify.app/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/</link>
     </image>
     
     <item>
       <title>Introduction to Machine Learning with the Tidyverse</title>
-      <link>https://bo-ni.netlify.app/talk/2017-avs-topo/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/talk/2017-avs-topo/</link>
       <pubDate>Thu, 27 Aug 2020 13:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/talk/2017-avs-topo/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/talk/2017-avs-topo/</guid>
       <description>&lt;p&gt;This four-hour workshop will provide a gentle introduction to machine learning with R using the modern suite of predictive modeling packages called 
 &lt;a href=&#34;https://github.com/tidymodels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidymodels&lt;/a&gt;. We will build, evaluate, compare, and tune predictive models. Along the way, we’ll learn about key concepts in machine learning including overfitting, the holdout method, the bias-variance trade-off, ensembling, cross-validation, and feature engineering. Learners will gain knowledge about good predictive modeling practices, as well as hands-on experience using tidymodels packages like 
 &lt;a href=&#34;https://tidymodels.github.io/parsnip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;parsnip&lt;/a&gt;, 
@@ -30,33 +30,33 @@
     
     <item>
       <title>Lattice Asymmetry Induced Intrinsic Toughening and Stable Crack Propagation in Monolayer h-BN</title>
-      <link>https://bo-ni.netlify.app/publication/2020-preprint-zhigong-hbn/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-zhigong-hbn/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-preprint-zhigong-hbn/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-zhigong-hbn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indentation response of freestanding two-dimensional materials with an adhesive boundary condition</title>
-      <link>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-cao-identation/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-cao-identation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A deep learning approach to the inverse problem of modulus identification in elasticity</title>
-      <link>https://bo-ni.netlify.app/publication/2020-preprint-mrs-inverseproblem/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-mrs-inverseproblem/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-preprint-mrs-inverseproblem/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-mrs-inverseproblem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep learning approch to inverse problems in elastograhy</title>
-      <link>https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/research/2020-06-06-ml-inverse/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/research/2020-06-06-ml-inverse/</guid>
       <description>&lt;h1 id=&#34;movie-list&#34;&gt;Movie list:&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Moive I: The unique samples in the sampling space   representing various matrix-inclusion geometry.&lt;/li&gt;
@@ -87,10 +87,10 @@
 &lt;figure id=&#34;figure-figure-4-a-cgan-model-for-the-prototype-inverse-problem-in-elastography-and-its-predictions-on-the-sampling-set-a4-a-randomly-picked-examples-of-the-cgan-models-prediction-on-the-testing-set-in-a4--after-400-epochs-of-training-b-the-distribution-of-the-normalized-l2-error-of-the-prediction-of-the-cgan-model-on-the-test-set-after-400-epochs-of-training&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 4. A cGAN model for the prototype inverse problem in elastography and its predictions on the sampling set A4. (a) Randomly picked examples of the cGAN model’s prediction on the testing set in A4  after 400 epochs of training. (b) The distribution of the normalized L2 error of the prediction of the cGAN model on the test set after 400 epochs of training.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 4. A cGAN model for the prototype inverse problem in elastography and its predictions on the sampling set A4. (a) Randomly picked examples of the cGAN model’s prediction on the testing set in A4  after 400 epochs of training. (b) The distribution of the normalized L2 error of the prediction of the cGAN model on the test set after 400 epochs of training.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1557&#34; height=&#34;755&#34;&gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1557&#34; height=&#34;755&#34;&gt;
 &lt;/a&gt;
 
 
@@ -154,10 +154,10 @@
 &lt;figure id=&#34;figure-figure-4-a-cgan-model-for-the-prototype-inverse-problem-in-elastography-and-its-predictions-on-the-sampling-set-a4-a-randomly-picked-examples-of-the-cgan-models-prediction-on-the-testing-set-in-a4--after-400-epochs-of-training-b-the-distribution-of-the-normalized-l2-error-of-the-prediction-of-the-cgan-model-on-the-test-set-after-400-epochs-of-training&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 4. A cGAN model for the prototype inverse problem in elastography and its predictions on the sampling set A4. (a) Randomly picked examples of the cGAN model’s prediction on the testing set in A4  after 400 epochs of training. (b) The distribution of the normalized L2 error of the prediction of the cGAN model on the test set after 400 epochs of training.&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 4. A cGAN model for the prototype inverse problem in elastography and its predictions on the sampling set A4. (a) Randomly picked examples of the cGAN model’s prediction on the testing set in A4  after 400 epochs of training. (b) The distribution of the normalized L2 error of the prediction of the cGAN model on the test set after 400 epochs of training.&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1557&#34; height=&#34;755&#34;&gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1557&#34; height=&#34;755&#34;&gt;
 &lt;/a&gt;
 
 
@@ -197,9 +197,9 @@
     
     <item>
       <title>Topological toughening of graphene</title>
-      <link>https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2020-06-03-topological-toughening/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2020-06-03-topological-toughening/</guid>
       <description>&lt;p&gt;It has been claimed that graphene, with the elastic modulus of 1 TPa and theoretical strength as high as 130 GPa, is the strongest material. However, from an engineering point of view, it is the fracture toughness that determines the actual strength of materials, as crack-like flaws (i.e., cracks, holes, notches, corners, etc.) are inevitable in the design, fabrication, and operation of practical devices and systems. Recently, it has been demonstrated that graphene has very low fracture toughness, in fact close to that of ideally brittle solids. These findings have raised sharp questions and are calling for efforts to explore effective methods to toughen graphene.&lt;/p&gt;
 &lt;p&gt;In this project, we have been systematically exploring the potential of using topological effects to enhance the fracture toughness of graphene. We organize our toughening framework under the concept of topological design, which is defined as “taking advantages of the cooperative interactions of topological defects, e.g., disclinations, dislocations, and grain boundaries, to achieve novel mechanical and physical properties through design and fabrication of 2D lattice with controlled distribution of topological defects”. In our framework, a phase field crystal (PFC) method is adopted to generate the atomic coordinates of material with specific topological patterns. We then perform molecular dynamics (MD) simulation/phase field (PF) modelling of fracture tests to examine the fracture properties. With this design framework, we have generated tough graphene samples, like rebar graphene, vein-patterned graphene, nacre-liked graphene and double-folded graphene, borrowing the inspirations from engineering and nature. Various toughening mechanisms are activated to hinder crack propagation and dissipate strain energy, including crack tip blunting, crack trapping, ligament bridging, crack deflection, daughter crack initiation and coalescence, pseudo-plastic deformation and snap-through among multi-stable states. A topological toughening library linking the simple topological patterns to the effective toughening mechanisms is presented as guidance for engineering tough 2D materials.&lt;/p&gt;
 &lt;!--A few weeks ago, I wrapped up teaching [tidymodels](https://www.tidymodels.org) for the third time. We say third time&#39;s the charm, right? Even during a global pandemic? I don&#39;t know, but this time around was fun in new ways and hard in new ways, so I wanted to take the time to write some thoughts down about how it went.
@@ -355,8 +355,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM_hu8ddd347995e1b8316aad5f226eef880e_1335197_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM_hu8ddd347995e1b8316aad5f226eef880e_1335197_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -364,8 +364,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM_hu8ddd347995e1b8316aad5f226eef880e_932227_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM_hu8ddd347995e1b8316aad5f226eef880e_932227_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -373,8 +373,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM_hu8ddd347995e1b8316aad5f226eef880e_2521546_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM_hu8ddd347995e1b8316aad5f226eef880e_2521546_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -382,8 +382,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM_hu8ddd347995e1b8316aad5f226eef880e_1994290_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM_hu8ddd347995e1b8316aad5f226eef880e_1994290_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -391,8 +391,8 @@ Thanks also to [Greg Wilson](https://third-bit.com/) for his support, and [Steph
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM_hu8ddd347995e1b8316aad5f226eef880e_365121_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-03-topological-toughening/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM_hu8ddd347995e1b8316aad5f226eef880e_365121_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -473,15 +473,15 @@ If you are curious, here is some of the feedback I collected at the bottom of ou
     
     <item>
       <title>How I Taught Tidymodels, Virtually</title>
-      <link>https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/</link>
       <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/</guid>
       <description>&lt;p&gt;A few weeks ago, I wrapped up teaching 
 &lt;a href=&#34;https://www.tidymodels.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidymodels&lt;/a&gt; for the third time. We say third time&amp;rsquo;s the charm, right? Even during a global pandemic? I don&amp;rsquo;t know, but this time around was fun in new ways and hard in new ways, so I wanted to take the time to write some thoughts down about how it went.&lt;/p&gt;
 &lt;h2 id=&#34;but-why&#34;&gt;But why?&lt;/h2&gt;
 &lt;p&gt;Why teach tidymodels virtually? I&amp;rsquo;ve already taught it as a 
-&lt;a href=&#34;https://bo-ni.netlify.app/project/tidyml&#34;&gt;2-day workshop&lt;/a&gt; at rstudio::conf(2020). I had already agreed to teach intro to machine learning with tidymodels as a full-day workshop for the Cascadia R Conf (which unfortunately was cancelled due to COVID), and the 
-&lt;a href=&#34;https://bo-ni.netlify.app/talk/2020-rmedicine-tidyml/&#34;&gt;R / Medicine conference&lt;/a&gt; (still on, and 100% virtual!).&lt;/p&gt;
+&lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/project/tidyml&#34;&gt;2-day workshop&lt;/a&gt; at rstudio::conf(2020). I had already agreed to teach intro to machine learning with tidymodels as a full-day workshop for the Cascadia R Conf (which unfortunately was cancelled due to COVID), and the 
+&lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/talk/2020-rmedicine-tidyml/&#34;&gt;R / Medicine conference&lt;/a&gt; (still on, and 100% virtual!).&lt;/p&gt;
 &lt;p&gt;I had three main goals:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;First, I wanted to do a good job for the R / Medicine conference workshop in August. This seemed like an interesting teaching challenge. One of the best compliments I&amp;rsquo;ve ever gotten from a colleague is that I &amp;ldquo;teach with heart&amp;rdquo; — so the challenge was, can a virtual workshop have a ❤️?&lt;/li&gt;
@@ -629,8 +629,8 @@ If you are curious, here is some of the feedback I collected at the bottom of ou
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM_hu8ddd347995e1b8316aad5f226eef880e_1335197_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.05%20PM_hu8ddd347995e1b8316aad5f226eef880e_1335197_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -638,8 +638,8 @@ If you are curious, here is some of the feedback I collected at the bottom of ou
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM_hu8ddd347995e1b8316aad5f226eef880e_932227_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.51%20PM_hu8ddd347995e1b8316aad5f226eef880e_932227_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -647,8 +647,8 @@ If you are curious, here is some of the feedback I collected at the bottom of ou
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM_hu8ddd347995e1b8316aad5f226eef880e_2521546_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.53.58%20PM_hu8ddd347995e1b8316aad5f226eef880e_2521546_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -656,8 +656,8 @@ If you are curious, here is some of the feedback I collected at the bottom of ou
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM_hu8ddd347995e1b8316aad5f226eef880e_1994290_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.54.06%20PM_hu8ddd347995e1b8316aad5f226eef880e_1994290_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
     
@@ -665,8 +665,8 @@ If you are curious, here is some of the feedback I collected at the bottom of ou
     
     
     
-  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM.png&#34; &gt;
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM_hu8ddd347995e1b8316aad5f226eef880e_365121_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-slides&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM.png&#34; &gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/post/2020-06-02-tidymodels-virtually/slides/Screen%20Shot%202020-06-01%20at%2011.54.41%20PM_hu8ddd347995e1b8316aad5f226eef880e_365121_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
   &lt;/a&gt;
   
 
@@ -754,11 +754,11 @@ If you are curious, here is some of the feedback I collected at the bottom of ou
     
     <item>
       <title>How I Teach R Markdown</title>
-      <link>https://bo-ni.netlify.app/post/2020-05-28-how-i-teach-r-markdown/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2020-05-28-how-i-teach-r-markdown/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2020-05-28-how-i-teach-r-markdown/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2020-05-28-how-i-teach-r-markdown/</guid>
       <description>
-&lt;script src=&#34;https://bo-ni.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://bo-ni.github.io/MRS_InverseProblem/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Ah, &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt;. I love teaching R Markdown. But this was not a love at first sight story. When I first started teaching with R at Oregon Health &amp;amp; Science University many moons ago, my students used R Markdown for their homework assignments and in-class labs. This is a great way to start for beginners, to be honest- just use it! I found that most people are not very disoriented by a file that mixes text and code; a concern I had at first and one that I’ve heard voiced by other educators. It seems natural to use if it is your first exposure to &lt;em&gt;all the data science things&lt;/em&gt;, especially if you’ve never used an R script.&lt;/p&gt;
@@ -817,35 +817,35 @@ If you are curious, here is some of the feedback I collected at the bottom of ou
     
     <item>
       <title>Harness the Power of Fracture: Controlled Fragmentation of Graphene via Substrate Necking</title>
-      <link>https://bo-ni.netlify.app/publication/2020-preview-gra-ribbon/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preview-gra-ribbon/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-preview-gra-ribbon/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preview-gra-ribbon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tuning crack-inclusion interaction with an applied T-stress.</title>
-      <link>https://bo-ni.netlify.app/publication/2020-ijf-tstress/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-ijf-tstress/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-ijf-tstress/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-ijf-tstress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Engineer Energy Dissipation in 3D Graphene Nanolattice Via Reversible Snap-Through Instability</title>
-      <link>https://bo-ni.netlify.app/publication/2020-jam-snapthrough/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-jam-snapthrough/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-jam-snapthrough/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-jam-snapthrough/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Take a Sad Script &amp; Make it Better: Tidymodels Edition</title>
-      <link>https://bo-ni.netlify.app/post/2020-02-27-better-tidymodels/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2020-02-27-better-tidymodels/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2020-02-27-better-tidymodels/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2020-02-27-better-tidymodels/</guid>
       <description>&lt;p&gt;A few years ago, I did a talk called 
-&lt;a href=&#34;https://bo-ni.netlify.app/talk/2018-ohsu-sad-plot-better/&#34;&gt;&amp;ldquo;Take a Sad Plot &amp;amp; Make it Better,&amp;quot;&lt;/a&gt; where I showed how I took a single sad plot and tried to make it better. The process of making that plot better taught me a lot about data visualization, and about the 
+&lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/talk/2018-ohsu-sad-plot-better/&#34;&gt;&amp;ldquo;Take a Sad Plot &amp;amp; Make it Better,&amp;quot;&lt;/a&gt; where I showed how I took a single sad plot and tried to make it better. The process of making that plot better taught me a lot about data visualization, and about the 
 &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2 package&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Fast-forward to 2019 when I started learning 
 &lt;a href=&#34;https://github.com/tidymodels/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidymodels&lt;/a&gt;, and I have accumulated some pretty sad predictive modeling scripts! And my sad plots are not so lonely anymore. Specifically, my old scripts for doing cross-validation with tidymodels are particularly sad. But, I&amp;rsquo;ve been able to make them better (one might even call them happy), primarily due to changes in the 
@@ -1496,17 +1496,17 @@ penguin_folds %&amp;gt;%
     
     <item>
       <title>A Century of Fracture Mechanics: from Griffith Theory to Machine Learning Based Modelling</title>
-      <link>https://bo-ni.netlify.app/publication/2020-asmeet-fmml/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-asmeet-fmml/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-asmeet-fmml/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-asmeet-fmml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning to Teach Machines to Learn</title>
-      <link>https://bo-ni.netlify.app/post/2019-12-23-learning-to-teach-machines-to-learn/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2019-12-23-learning-to-teach-machines-to-learn/</link>
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2019-12-23-learning-to-teach-machines-to-learn/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2019-12-23-learning-to-teach-machines-to-learn/</guid>
       <description>
 
 
@@ -1576,17 +1576,17 @@ penguin_folds %&amp;gt;%
     
     <item>
       <title>Topological design of graphene</title>
-      <link>https://bo-ni.netlify.app/publication/2019-topological-design/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2019-topological-design/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2019-topological-design/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2019-topological-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Spoonful of Hugo: Troubleshooting Your Build</title>
-      <link>https://bo-ni.netlify.app/post/2019-03-04-hugo-troubleshooting/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2019-03-04-hugo-troubleshooting/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2019-03-04-hugo-troubleshooting/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2019-03-04-hugo-troubleshooting/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -1604,7 +1604,7 @@ penguin_folds %&amp;gt;%
 &lt;p&gt;“Just a spoonful of Hugo helps the blog go down.”
 - me, only somewhat kidding&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated). You can read the previous posts about my “Spoonful of Hugo” series &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-archetypes/&#34;&gt;about Hugo archetypes&lt;/a&gt;, &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-netlify-toml/&#34;&gt;Hugo versions&lt;/a&gt;, and &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-21-hugo-page-bundles/&#34;&gt;Hugo page bundles&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated). You can read the previous posts about my “Spoonful of Hugo” series &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-archetypes/&#34;&gt;about Hugo archetypes&lt;/a&gt;, &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-netlify-toml/&#34;&gt;Hugo versions&lt;/a&gt;, and &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-21-hugo-page-bundles/&#34;&gt;Hugo page bundles&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The following are a few steps that I always start with to troubleshoot any blogdown/Hugo/Netlify problems. These steps would solve what I would anecdotally estimate as ~50% of blogdown problems that I see posted in the &lt;a href=&#34;https://github.com/rstudio/blogdown/issues&#34;&gt;GitHub repository&lt;/a&gt; and on the &lt;a href=&#34;https://community.rstudio.com/tags/blogdown&#34;&gt;community site&lt;/a&gt;.&lt;/p&gt;
 &lt;div id=&#34;update-hugo&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;#1: Update Hugo&lt;/h1&gt;
@@ -1628,7 +1628,7 @@ Figure 2: Check your theme’s minimum Hugo version
 &lt;p&gt;Check your version again post-update:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::hugo_version()&lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;## [1] &amp;#39;0.55.6&amp;#39;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;If you are using Netlify to build your site using Hugo, you’ll want this version to match that- the best way to do that is with a &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-netlify-toml/&#34;&gt;netlify.toml file&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you are using Netlify to build your site using Hugo, you’ll want this version to match that- the best way to do that is with a &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-netlify-toml/&#34;&gt;netlify.toml file&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;change-the-baseurl&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;#2: Change the baseurl&lt;/h1&gt;
@@ -1685,10 +1685,10 @@ Figure 4: Hugo universal theme
 &lt;p&gt;If you can render your site locally but your published site looks different, try the drag-and-drop method:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://arm.rbind.io/slides/img/netlify-new-site.png&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Use the “Serve Site” Addin, then drag-and-drop the &lt;code&gt;public/&lt;/code&gt; folder straight into Netlify. What does this do? You can now see your public site…that you built…with your local version of Hugo. Netlify is doing none of the site building here.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://bo-ni.netlify.app/post/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-10-1.gif&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-10-1.gif&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
 &lt;p&gt;One of the first benefits of this approach is that it ensures that you are able to actually &lt;em&gt;generate&lt;/em&gt; a &lt;code&gt;public/&lt;/code&gt; folder locally! I have seen folks struggle to deploy the wrong repo. This simple step can force you to make sure to use the “Serve Site” Addin to generate the &lt;code&gt;public/&lt;/code&gt; folder, and that the repo you are trying to link to Netlify actually contains a Hugo site because you must physically move the &lt;code&gt;public/&lt;/code&gt; folder. But this method can also help you diagnose other problems too.&lt;/p&gt;
 &lt;p&gt;If your &lt;code&gt;public/&lt;/code&gt; folder &lt;strong&gt;does not render&lt;/strong&gt; on Netlify, you have work to do locally. I can’t tell you what it is as it can be a number of things, but you can be sure that your problem is not just the Netlify build- it is your local build too.&lt;/p&gt;
-&lt;p&gt;If your &lt;code&gt;public/&lt;/code&gt; folder &lt;strong&gt;does render&lt;/strong&gt; perfectly on Netlify, but you are getting a Netlify build error, then you likely have a Hugo version problem. It might be that the version you are running locally is more recent than the version run by Netlify by default to actually build your site. The good news is there is a quick fix for this! The solution is to upgrade the Hugo version Netlify is using- see my advice &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-netlify-toml/&#34;&gt;here for how to do that&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If your &lt;code&gt;public/&lt;/code&gt; folder &lt;strong&gt;does render&lt;/strong&gt; perfectly on Netlify, but you are getting a Netlify build error, then you likely have a Hugo version problem. It might be that the version you are running locally is more recent than the version run by Netlify by default to actually build your site. The good news is there is a quick fix for this! The solution is to upgrade the Hugo version Netlify is using- see my advice &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-netlify-toml/&#34;&gt;here for how to do that&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you are happy with how your site looks but you are missing content and/or seeing old deleted content, then you may need the next few strategies to troubleshoot.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;torch-public&#34; class=&#34;section level1&#34;&gt;
@@ -1699,7 +1699,7 @@ Figure 4: Hugo universal theme
 &lt;p&gt;“you are strongly recommended to delete the &lt;code&gt;/public/&lt;/code&gt; directory before you rebuild the site for publishing every time, because Hugo never deletes it”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Also, this has a bonus of reinforcing for you exactly what the “Serve Site” Addin &lt;em&gt;does&lt;/em&gt; - it regenerates the &lt;code&gt;public/&lt;/code&gt; folder. This is also the folder that, if you are using &lt;a href=&#34;post/2019-02-19-hugo-netlify-toml/&#34;&gt;Netlify to build your site&lt;/a&gt;, is in your &lt;code&gt;.gitignore&lt;/code&gt; file because Netlify (+ Hugo) generates this file “fresh” with each push to your GitHub repository.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://bo-ni.netlify.app/post/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-11-1.gif&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-03-04-hugo-troubleshooting/index_files/figure-html/unnamed-chunk-11-1.gif&#34; /&gt;&lt;!-- --&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;peruse-public&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;#5: Peruse &lt;code&gt;public/&lt;/code&gt;&lt;/h1&gt;
@@ -1752,9 +1752,9 @@ publishDate: &amp;#39;2019-03-04&amp;#39;&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>A Spoonful of Hugo: Page Bundles</title>
-      <link>https://bo-ni.netlify.app/post/2019-02-21-hugo-page-bundles/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-21-hugo-page-bundles/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2019-02-21-hugo-page-bundles/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-21-hugo-page-bundles/</guid>
       <description>
 
 
@@ -1762,7 +1762,7 @@ publishDate: &amp;#39;2019-03-04&amp;#39;&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;“Just a spoonful of Hugo helps the blog go down.”
 - me, only somewhat kidding&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated). You can read the previous posts about my “Spoonful of Hugo” series &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-archetypes/&#34;&gt;about Hugo archetypes&lt;/a&gt; and &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-netlify-toml/&#34;&gt;Hugo versions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated). You can read the previous posts about my “Spoonful of Hugo” series &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-archetypes/&#34;&gt;about Hugo archetypes&lt;/a&gt; and &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-netlify-toml/&#34;&gt;Hugo versions&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This is my third post in this series and it is breaking news.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/dZCdA82qa8d4xVIwm3/giphy.gif&#34; /&gt;&lt;/p&gt;
 &lt;div id=&#34;hugo-page-bundles&#34; class=&#34;section level1&#34;&gt;
@@ -1805,7 +1805,7 @@ post/2015-07-24-bye-world/index.Rmd&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div id=&#34;bundle-me-blogdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Bundle Me, blogdown!&lt;/h1&gt;
-&lt;p&gt;First, read the previous post on setting up a &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-netlify-toml/&#34;&gt;netlify.toml file&lt;/a&gt;. Since using Hugo page bundles depends on Hugo v0.32 or higher, you should go ahead and update hugo then update your netlify.toml with your updated version:&lt;/p&gt;
+&lt;p&gt;First, read the previous post on setting up a &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-netlify-toml/&#34;&gt;netlify.toml file&lt;/a&gt;. Since using Hugo page bundles depends on Hugo v0.32 or higher, you should go ahead and update hugo then update your netlify.toml with your updated version:&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::update_hugo()
 blogdown::hugo_version()&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Now, let’s use the &lt;a href=&#34;https://usethis.r-lib.org/&#34;&gt;&lt;strong&gt;usethis&lt;/strong&gt; package&lt;/a&gt;.&lt;/p&gt;
@@ -1843,12 +1843,12 @@ options(
   blogdown.new_bundle = TRUE,
   blogdown.title_case = TRUE
 )&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;For the blogdown-specific options, any of these prepopulate content in your “New Post” Addin (I told you to use this &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;). There is a handy &lt;a href=&#34;https://bookdown.org/yihui/blogdown/global-options.html&#34;&gt;table&lt;/a&gt; from the blogdown book, summarized here:&lt;/p&gt;
+&lt;p&gt;For the blogdown-specific options, any of these prepopulate content in your “New Post” Addin (I told you to use this &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;). There is a handy &lt;a href=&#34;https://bookdown.org/yihui/blogdown/global-options.html&#34;&gt;table&lt;/a&gt; from the blogdown book, summarized here:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;blogdown.author&lt;/code&gt; = author of new posts&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;blogdown.ext&lt;/code&gt; = default extension of new posts (can also be “.md” or “.Rmarkdown”)&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;blogdown.subdir&lt;/code&gt; = theme-specific, you need to know your theme and content folder here&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;blogdown.yaml.empty&lt;/code&gt; = I told you to do that &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;blogdown.yaml.empty&lt;/code&gt; = I told you to do that &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;blogdown.new_bundle&lt;/code&gt; = what this whole post is about!&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;blogdown.title_case&lt;/code&gt; = “nEed More coFFee” –&amp;gt; “Need More Coffee” (it tidies all your post titles to title case)&lt;/li&gt;
 &lt;/ul&gt;
@@ -1872,7 +1872,7 @@ options(
 &lt;pre&gt;&lt;code&gt;[permalinks]
     post = &amp;quot;/:year/:month/:day/:slug/&amp;quot;&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;The default here from Hugo was &lt;code&gt;/post/:year-:month-:day-:slug/:slug/&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;A small note: if you want to add relative links from a blog post to another post in your same blog. So &lt;code&gt;[this](/post/2019-02-19-hugo-archetypes/)&lt;/code&gt; becomes &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-archetypes/&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A small note: if you want to add relative links from a blog post to another post in your same blog. So &lt;code&gt;[this](/post/2019-02-19-hugo-archetypes/)&lt;/code&gt; becomes &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-archetypes/&#34;&gt;this&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Now, add images and data files to your ❤️’s content! But you may want to do one more thing…&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;update-metadata&#34; class=&#34;section level1&#34;&gt;
@@ -1894,9 +1894,9 @@ options(
     
     <item>
       <title>A Spoonful of Hugo: The netlify.toml File</title>
-      <link>https://bo-ni.netlify.app/post/2019-02-19-hugo-netlify-toml/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-netlify-toml/</link>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2019-02-19-hugo-netlify-toml/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-netlify-toml/</guid>
       <description>
 
 
@@ -1904,7 +1904,7 @@ options(
 &lt;p&gt;“Just a spoonful of Hugo helps the blog go down.”
 - me, only somewhat kidding&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You can read the previous post about my “Spoonful of Hugo” series &lt;a href=&#34;https://bo-ni.netlify.app/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;. In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated).&lt;/p&gt;
+&lt;p&gt;You can read the previous post about my “Spoonful of Hugo” series &lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-archetypes/&#34;&gt;here&lt;/a&gt;. In this series, I’m sharing small spoonfuls of Hugo that I have learned that hopefully can help you get your site &lt;em&gt;UP&lt;/em&gt; (and even better- more efficient, more streamlined, more automated).&lt;/p&gt;
 &lt;p&gt;This is my second post in this series, and it is a relatively quick one. Just do this. This one is a no-brainer.&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -1995,9 +1995,9 @@ options(
     
     <item>
       <title>A Spoonful of Hugo: Archetypes</title>
-      <link>https://bo-ni.netlify.app/post/2019-02-19-hugo-archetypes/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-archetypes/</link>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2019-02-19-hugo-archetypes/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2019-02-19-hugo-archetypes/</guid>
       <description>
 
 
@@ -2141,73 +2141,73 @@ categories = []
     
     <item>
       <title>Projects</title>
-      <link>https://bo-ni.netlify.app/projects/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/projects/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/projects/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications &amp; Working papers</title>
-      <link>https://bo-ni.netlify.app/publications/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publications/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publications/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://bo-ni.netlify.app/resume/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/resume/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/resume/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks &amp; Workshops</title>
-      <link>https://bo-ni.netlify.app/talks/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/talks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/talks/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks and workshops</title>
-      <link>https://bo-ni.netlify.app/talklist/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/talklist/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/talklist/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/talklist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://bo-ni.netlify.app/teaching/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/teaching/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/teaching/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phase field crystal modeling of grain boundary structures and growth in polycrystalline graphene</title>
-      <link>https://bo-ni.netlify.app/publication/2018-jmps-pfc/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2018-jmps-pfc/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2018-jmps-pfc/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2018-jmps-pfc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toughening Graphene by Integrating Carbon Nanotubes</title>
-      <link>https://bo-ni.netlify.app/publication/2018-rebar-graphene/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2018-rebar-graphene/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2018-rebar-graphene/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2018-rebar-graphene/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Read Data with Multiple Header Rows into R</title>
-      <link>https://bo-ni.netlify.app/post/2018-02-23-read-multiple-header-rows/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2018-02-23-read-multiple-header-rows/</link>
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2018-02-23-read-multiple-header-rows/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2018-02-23-read-multiple-header-rows/</guid>
       <description>
 
 
@@ -2534,11 +2534,11 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>LICENSE: CC-BY-SA</title>
-      <link>https://bo-ni.netlify.app/license/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/license/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://bo-ni.netlify.app/license/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/license/</guid>
       <description>&lt;p&gt;My 
-&lt;a href=&#34;https://bo-ni.netlify.app/post/&#34;&gt;blog posts&lt;/a&gt; are released under a 
+&lt;a href=&#34;https://bo-ni.github.io/MRS_InverseProblem/post/&#34;&gt;blog posts&lt;/a&gt; are released under a 
 &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
 &lt;center&gt;
 &lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;
@@ -2548,9 +2548,9 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>R-Ladies Presentation Ninja</title>
-      <link>https://bo-ni.netlify.app/post/2017-12-18-r-ladies-presentation-ninja/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2017-12-18-r-ladies-presentation-ninja/</link>
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2017-12-18-r-ladies-presentation-ninja/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2017-12-18-r-ladies-presentation-ninja/</guid>
       <description>
 
 
@@ -2618,9 +2618,9 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Topological Toughening of Graphene and other 2D Materials</title>
-      <link>https://bo-ni.netlify.app/talk/2020-rmedicine-tidyml/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/talk/2020-rmedicine-tidyml/</link>
       <pubDate>Wed, 01 Nov 2017 09:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/talk/2020-rmedicine-tidyml/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/talk/2020-rmedicine-tidyml/</guid>
       <description>&lt;p&gt;&amp;ldquo;Topological Toughening of Graphene and other 2D Materials&amp;rdquo;, Symposium &amp;ldquo;Properties of 2D Materials including Electronic, Magnetic, Mechanical, Optical, and Thermal Properties”, AVS 64th International Symposium &amp;amp; Exhibition, Nov 1, 2017, Tampa, FL, USA (Presented by B. Ni)&lt;/p&gt;
 &lt;p&gt;This four-hour workshop will provide a gentle introduction to machine learning with R using the modern suite of predictive modeling packages called 
 &lt;a href=&#34;https://github.com/tidymodels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidymodels&lt;/a&gt;. We will build, evaluate, compare, and tune predictive models. Along the way, we’ll learn about key concepts in machine learning including overfitting, the holdout method, the bias-variance trade-off, ensembling, cross-validation, and feature engineering. Learners will gain knowledge about good predictive modeling practices, as well as hands-on experience using tidymodels packages like 
@@ -2635,9 +2635,9 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Up &amp; Running with blogdown</title>
-      <link>https://bo-ni.netlify.app/project/up-running-blogdown/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/project/up-running-blogdown/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/project/up-running-blogdown/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/project/up-running-blogdown/</guid>
       <description>&lt;p&gt;We will cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
@@ -2672,10 +2672,10 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.netlify.app/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
 &lt;/a&gt;
 
 
@@ -2687,9 +2687,9 @@ stickers_dict&lt;/code&gt;&lt;/pre&gt;
     
     <item>
       <title>Up &amp; Running with blogdown</title>
-      <link>https://bo-ni.netlify.app/post/2017-06-12-up-and-running-with-blogdown/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2017-06-12-up-and-running-with-blogdown/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2017-06-12-up-and-running-with-blogdown/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2017-06-12-up-and-running-with-blogdown/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;

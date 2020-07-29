@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rladies | </title>
-    <link>https://bo-ni.netlify.app/categories/rladies/</link>
-      <atom:link href="https://bo-ni.netlify.app/categories/rladies/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bo-ni.github.io/MRS_InverseProblem/categories/rladies/</link>
+      <atom:link href="https://bo-ni.github.io/MRS_InverseProblem/categories/rladies/index.xml" rel="self" type="application/rss+xml" />
     <description>rladies</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Mon, 18 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <url>https://bo-ni.github.io/MRS_InverseProblem/img/pom-card.png</url>
       <title>rladies</title>
-      <link>https://bo-ni.netlify.app/categories/rladies/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/categories/rladies/</link>
     </image>
     
     <item>
       <title>R-Ladies Presentation Ninja</title>
-      <link>https://bo-ni.netlify.app/post/2017-12-18-r-ladies-presentation-ninja/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/post/2017-12-18-r-ladies-presentation-ninja/</link>
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/post/2017-12-18-r-ladies-presentation-ninja/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/post/2017-12-18-r-ladies-presentation-ninja/</guid>
       <description>
 
 

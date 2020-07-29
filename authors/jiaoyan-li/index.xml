@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiaoyan Li | </title>
-    <link>https://bo-ni.netlify.app/authors/jiaoyan-li/</link>
-      <atom:link href="https://bo-ni.netlify.app/authors/jiaoyan-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bo-ni.github.io/MRS_InverseProblem/authors/jiaoyan-li/</link>
+      <atom:link href="https://bo-ni.github.io/MRS_InverseProblem/authors/jiaoyan-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaoyan Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <url>https://bo-ni.github.io/MRS_InverseProblem/img/pom-card.png</url>
       <title>Jiaoyan Li</title>
-      <link>https://bo-ni.netlify.app/authors/jiaoyan-li/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/authors/jiaoyan-li/</link>
     </image>
     
     <item>
       <title>Topological design of graphene</title>
-      <link>https://bo-ni.netlify.app/publication/2019-topological-design/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2019-topological-design/</link>
       <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2019-topological-design/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2019-topological-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phase field crystal modeling of grain boundary structures and growth in polycrystalline graphene</title>
-      <link>https://bo-ni.netlify.app/publication/2018-jmps-pfc/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2018-jmps-pfc/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2018-jmps-pfc/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2018-jmps-pfc/</guid>
       <description></description>
     </item>
     

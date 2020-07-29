@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yilun Li | </title>
-    <link>https://bo-ni.netlify.app/authors/yilun-li/</link>
-      <atom:link href="https://bo-ni.netlify.app/authors/yilun-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bo-ni.github.io/MRS_InverseProblem/authors/yilun-li/</link>
+      <atom:link href="https://bo-ni.github.io/MRS_InverseProblem/authors/yilun-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Yilun Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <url>https://bo-ni.github.io/MRS_InverseProblem/img/pom-card.png</url>
       <title>Yilun Li</title>
-      <link>https://bo-ni.netlify.app/authors/yilun-li/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/authors/yilun-li/</link>
     </image>
     
     <item>
       <title>Toughening Graphene by Integrating Carbon Nanotubes</title>
-      <link>https://bo-ni.netlify.app/publication/2018-rebar-graphene/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2018-rebar-graphene/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2018-rebar-graphene/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2018-rebar-graphene/</guid>
       <description></description>
     </item>
     

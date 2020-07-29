@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>workshop | </title>
-    <link>https://bo-ni.netlify.app/tags/workshop/</link>
-      <atom:link href="https://bo-ni.netlify.app/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bo-ni.github.io/MRS_InverseProblem/tags/workshop/</link>
+      <atom:link href="https://bo-ni.github.io/MRS_InverseProblem/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <description>workshop</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <url>https://bo-ni.github.io/MRS_InverseProblem/img/pom-card.png</url>
       <title>workshop</title>
-      <link>https://bo-ni.netlify.app/tags/workshop/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/tags/workshop/</link>
     </image>
     
     <item>
       <title>Up &amp; Running with blogdown</title>
-      <link>https://bo-ni.netlify.app/project/up-running-blogdown/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/project/up-running-blogdown/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/project/up-running-blogdown/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/project/up-running-blogdown/</guid>
       <description>&lt;p&gt;We will cover:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The &lt;strong&gt;blogdown&lt;/strong&gt; R package&lt;/li&gt;
@@ -51,10 +51,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.netlify.app/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://bo-ni.netlify.app/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
+  &lt;img data-src=&#34;https://bo-ni.github.io/MRS_InverseProblem/MRS_InverseProblem/project/up-running-blogdown/blogdown-meetup_hu63626b89c4debd1240b389a830474d85_3596239_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2550&#34; height=&#34;3300&#34;&gt;
 &lt;/a&gt;
 
 

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>preprint | </title>
-    <link>https://bo-ni.netlify.app/tags/preprint/</link>
-      <atom:link href="https://bo-ni.netlify.app/tags/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bo-ni.github.io/MRS_InverseProblem/tags/preprint/</link>
+      <atom:link href="https://bo-ni.github.io/MRS_InverseProblem/tags/preprint/index.xml" rel="self" type="application/rss+xml" />
     <description>preprint</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <url>https://bo-ni.github.io/MRS_InverseProblem/img/pom-card.png</url>
       <title>preprint</title>
-      <link>https://bo-ni.netlify.app/tags/preprint/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/tags/preprint/</link>
     </image>
     
     <item>
       <title>Lattice Asymmetry Induced Intrinsic Toughening and Stable Crack Propagation in Monolayer h-BN</title>
-      <link>https://bo-ni.netlify.app/publication/2020-preprint-zhigong-hbn/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-zhigong-hbn/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-preprint-zhigong-hbn/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-zhigong-hbn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indentation response of freestanding two-dimensional materials with an adhesive boundary condition</title>
-      <link>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-cao-identation/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-cao-identation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A deep learning approach to the inverse problem of modulus identification in elasticity</title>
-      <link>https://bo-ni.netlify.app/publication/2020-preprint-mrs-inverseproblem/</link>
+      <link>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-mrs-inverseproblem/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://bo-ni.netlify.app/publication/2020-preprint-mrs-inverseproblem/</guid>
+      <guid>https://bo-ni.github.io/MRS_InverseProblem/publication/2020-preprint-mrs-inverseproblem/</guid>
       <description></description>
     </item>
     
