@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kai Guo | </title>
+    <link>https://bo-ni.netlify.app/authors/kai-guo/</link>
+      <atom:link href="https://bo-ni.netlify.app/authors/kai-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kai Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <title>Kai Guo</title>
+      <link>https://bo-ni.netlify.app/authors/kai-guo/</link>
+    </image>
+    
+    <item>
+      <title>Tuning crack-inclusion interaction with an applied T-stress.</title>
+      <link>https://bo-ni.netlify.app/publication/2020-ijf-tstress/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2020-ijf-tstress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

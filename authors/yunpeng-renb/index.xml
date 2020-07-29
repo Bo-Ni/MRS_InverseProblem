@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yunpeng Renb | </title>
+    <link>https://bo-ni.netlify.app/authors/yunpeng-renb/</link>
+      <atom:link href="https://bo-ni.netlify.app/authors/yunpeng-renb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yunpeng Renb</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <title>Yunpeng Renb</title>
+      <link>https://bo-ni.netlify.app/authors/yunpeng-renb/</link>
+    </image>
+    
+    <item>
+      <title>Indentation response of freestanding two-dimensional materials with an adhesive boundary condition</title>
+      <link>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

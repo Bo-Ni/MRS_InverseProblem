@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | </title>
+    <link>https://bo-ni.netlify.app/publication_types/6/</link>
+      <atom:link href="https://bo-ni.netlify.app/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <title>6</title>
+      <link>https://bo-ni.netlify.app/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Topological design of graphene</title>
+      <link>https://bo-ni.netlify.app/publication/2019-topological-design/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2019-topological-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

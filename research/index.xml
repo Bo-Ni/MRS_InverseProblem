@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | </title>
+    <link>https://bo-ni.netlify.app/research/</link>
+      <atom:link href="https://bo-ni.netlify.app/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <title>Research</title>
+      <link>https://bo-ni.netlify.app/research/</link>
+    </image>
+    
+    <item>
+      <title>Deep learning approch to inverse problems in elastograhy</title>
+      <link>https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/</guid>
+      <description>&lt;h1 id=&#34;movie-list&#34;&gt;Movie list:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Moive I: The unique samples in the sampling space   representing various matrix-inclusion geometry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;!-- **__**   --&gt;
+&lt;/div&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;!-- &lt;div class=&#34;col-12 col-lg-12&#34;&gt;
+    
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-4-a-cgan-model-for-the-prototype-inverse-problem-in-elastography-and-its-predictions-on-the-sampling-set-a4-a-randomly-picked-examples-of-the-cgan-models-prediction-on-the-testing-set-in-a4--after-400-epochs-of-training-b-the-distribution-of-the-normalized-l2-error-of-the-prediction-of-the-cgan-model-on-the-test-set-after-400-epochs-of-training&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 4. A cGAN model for the prototype inverse problem in elastography and its predictions on the sampling set A4. (a) Randomly picked examples of the cGAN model’s prediction on the testing set in A4  after 400 epochs of training. (b) The distribution of the normalized L2 error of the prediction of the cGAN model on the test set after 400 epochs of training.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1557&#34; height=&#34;755&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Figure 4. A cGAN model for the prototype inverse problem in elastography and its predictions on the sampling set A4. (a) Randomly picked examples of the cGAN model’s prediction on the testing set in A4  after 400 epochs of training. (b) The distribution of the normalized L2 error of the prediction of the cGAN model on the test set after 400 epochs of training.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+  &lt;/div&gt; --&gt;
+  &lt;div class=&#34;col-12 col-lg-12&#34;&gt;
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;loc-video/Movie_I.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Movie II: The performance of the DL model on the testing set (15%) after 400-epoch training.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;!-- **__**   --&gt;
+&lt;/div&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;!-- &lt;div class=&#34;col-12 col-lg-12&#34;&gt;
+    
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-4-a-cgan-model-for-the-prototype-inverse-problem-in-elastography-and-its-predictions-on-the-sampling-set-a4-a-randomly-picked-examples-of-the-cgan-models-prediction-on-the-testing-set-in-a4--after-400-epochs-of-training-b-the-distribution-of-the-normalized-l2-error-of-the-prediction-of-the-cgan-model-on-the-test-set-after-400-epochs-of-training&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;Figure 4. A cGAN model for the prototype inverse problem in elastography and its predictions on the sampling set A4. (a) Randomly picked examples of the cGAN model’s prediction on the testing set in A4  after 400 epochs of training. (b) The distribution of the normalized L2 error of the prediction of the cGAN model on the test set after 400 epochs of training.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/loc-ima/ML-4_hu253fc764037dc933f76b89a70c462d65_147323_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1557&#34; height=&#34;755&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Figure 4. A cGAN model for the prototype inverse problem in elastography and its predictions on the sampling set A4. (a) Randomly picked examples of the cGAN model’s prediction on the testing set in A4  after 400 epochs of training. (b) The distribution of the normalized L2 error of the prediction of the cGAN model on the test set after 400 epochs of training.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+  &lt;/div&gt; --&gt;
+  &lt;div class=&#34;col-12 col-lg-12&#34;&gt;
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;loc-video/Movie_II.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

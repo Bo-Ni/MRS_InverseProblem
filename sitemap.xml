@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/talk/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/talk/2017-avs-topo/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/machine-learning/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/tidymodels/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/workshop/</loc>
+    <lastmod>2019-06-16T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication_types/3/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/bo-ni/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/chao-wang/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/guangyuan-lu/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/huajian-gao/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/jun-lou/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2020-preprint-zhigong-hbn/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/lin-gu/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/preprint/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication_types/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/qinghua-zhang/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/xiaoming-xie/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/xiaoyan-li/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/yingchao-yang/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/zhigong-song/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/guoxin-cao/</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/tao-wang/</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/yunpeng-renb/</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/zhuo-zhuang/</loc>
+    <lastmod>2020-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2020-preprint-mrs-inverseproblem/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/research/2020-06-06-ml-inverse/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/research/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/dft/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/inverse-design/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/md/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2020-06-03-topological-toughening/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2020-06-02-tidymodels-virtually/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/rmarkdown/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2020-05-28-how-i-teach-r-markdown/</loc>
+    <lastmod>2020-05-28T20:45:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication_types/2/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2020-preview-gra-ribbon/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/kai-guo/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/publication/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2020-ijf-tstress/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2020-jam-snapthrough/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/machine-learning/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2020-02-27-better-tidymodels/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/tidymodels/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication_types/1/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2020-asmeet-fmml/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/xing-liu/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2019-12-23-learning-to-teach-machines-to-learn/</loc>
+    <lastmod>2019-12-23T08:51:41-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication_types/6/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/jiaoyan-li/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/teng-zhang/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2019-topological-design/</loc>
+    <lastmod>2019-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2019-03-04-hugo-troubleshooting/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/alison/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/blogdown/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/blogdown/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/hugo/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2019-02-21-hugo-page-bundles/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2019-02-19-hugo-netlify-toml/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/hugo/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/netlify/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/netlify/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2019-02-19-hugo-archetypes/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/projects/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publications/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/resume/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/talks/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/talklist/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/teaching/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2018-jmps-pfc/</loc>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/emily-hacopian/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/hua-guo/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/james-tour/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/qing-chen/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/publication/2018-rebar-graphene/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/xing-li/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/yilun-li/</loc>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/data-import/</loc>
+    <lastmod>2018-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2018-02-23-read-multiple-header-rows/</loc>
+    <lastmod>2018-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/readr/</loc>
+    <lastmod>2018-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/readxl/</loc>
+    <lastmod>2018-07-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/license/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2017-12-18-r-ladies-presentation-ninja/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/rladies/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/xaringan/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/xaringan/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/2d-material/</loc>
+    <lastmod>2017-12-31T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/categories/conference/</loc>
+    <lastmod>2017-12-31T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/topological-design/</loc>
+    <lastmod>2017-12-31T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/talk/2020-rmedicine-tidyml/</loc>
+    <lastmod>2017-12-31T02:20:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/project/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/r/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/project/up-running-blogdown/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/workshop/</loc>
+    <lastmod>2017-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/post/2017-06-12-up-and-running-with-blogdown/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/authors/bo-ni/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bo-ni.netlify.app/tags/pfc/pf/</loc>
+  </url>
+  
+</urlset>

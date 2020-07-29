@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Ni | </title>
+    <link>https://bo-ni.netlify.app/authors/bo-ni/</link>
+      <atom:link href="https://bo-ni.netlify.app/authors/bo-ni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo Ni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <title>Bo Ni</title>
+      <link>https://bo-ni.netlify.app/authors/bo-ni/</link>
+    </image>
+    
+    <item>
+      <title>Lattice Asymmetry Induced Intrinsic Toughening and Stable Crack Propagation in Monolayer h-BN</title>
+      <link>https://bo-ni.netlify.app/publication/2020-preprint-zhigong-hbn/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2020-preprint-zhigong-hbn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indentation response of freestanding two-dimensional materials with an adhesive boundary condition</title>
+      <link>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2020-preprint-cao-identation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A deep learning approach to the inverse problem of modulus identification in elasticity</title>
+      <link>https://bo-ni.netlify.app/publication/2020-preprint-mrs-inverseproblem/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2020-preprint-mrs-inverseproblem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harness the Power of Fracture: Controlled Fragmentation of Graphene via Substrate Necking</title>
+      <link>https://bo-ni.netlify.app/publication/2020-preview-gra-ribbon/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2020-preview-gra-ribbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning crack-inclusion interaction with an applied T-stress.</title>
+      <link>https://bo-ni.netlify.app/publication/2020-ijf-tstress/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2020-ijf-tstress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineer Energy Dissipation in 3D Graphene Nanolattice Via Reversible Snap-Through Instability</title>
+      <link>https://bo-ni.netlify.app/publication/2020-jam-snapthrough/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2020-jam-snapthrough/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Century of Fracture Mechanics: from Griffith Theory to Machine Learning Based Modelling</title>
+      <link>https://bo-ni.netlify.app/publication/2020-asmeet-fmml/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2020-asmeet-fmml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topological design of graphene</title>
+      <link>https://bo-ni.netlify.app/publication/2019-topological-design/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2019-topological-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase field crystal modeling of grain boundary structures and growth in polycrystalline graphene</title>
+      <link>https://bo-ni.netlify.app/publication/2018-jmps-pfc/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2018-jmps-pfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toughening Graphene by Integrating Carbon Nanotubes</title>
+      <link>https://bo-ni.netlify.app/publication/2018-rebar-graphene/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2018-rebar-graphene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

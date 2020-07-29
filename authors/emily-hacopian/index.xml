@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Hacopian | </title>
+    <link>https://bo-ni.netlify.app/authors/emily-hacopian/</link>
+      <atom:link href="https://bo-ni.netlify.app/authors/emily-hacopian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emily Hacopian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Bo Ni 2020, all rights reserved</copyright><lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bo-ni.netlify.app/img/pom-card.png</url>
+      <title>Emily Hacopian</title>
+      <link>https://bo-ni.netlify.app/authors/emily-hacopian/</link>
+    </image>
+    
+    <item>
+      <title>Toughening Graphene by Integrating Carbon Nanotubes</title>
+      <link>https://bo-ni.netlify.app/publication/2018-rebar-graphene/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://bo-ni.netlify.app/publication/2018-rebar-graphene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
